@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-formik-practice/static/css/main.9508ee95.css",
+    "main.js": "/react-formik-practice/static/js/main.6a47052d.js",
+    "index.html": "/react-formik-practice/index.html",
+    "main.9508ee95.css.map": "/react-formik-practice/static/css/main.9508ee95.css.map",
+    "main.6a47052d.js.map": "/react-formik-practice/static/js/main.6a47052d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9508ee95.css",
+    "static/js/main.6a47052d.js"
+  ]
+}
